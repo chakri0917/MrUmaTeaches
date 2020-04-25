@@ -1,1 +1,5 @@
-com\tracker\dao\App.class
+com\tracker\server\dao\CountryDAO.class
+com\tracker\server\dao\PatientDAO.class
+com\tracker\server\dao\RegionDAO.class
+com\tracker\server\dao\StateDAO.class
+com\tracker\server\dao\App.class

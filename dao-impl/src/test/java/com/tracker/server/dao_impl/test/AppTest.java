@@ -1,4 +1,4 @@
-package com.tracker.server.dao;
+package com.tracker.server.dao_impl.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

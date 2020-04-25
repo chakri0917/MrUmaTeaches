@@ -1,4 +1,4 @@
-package com.tracker.dao;
+package com.tracker.server.dao;
 
 /**
  * Hello world!
