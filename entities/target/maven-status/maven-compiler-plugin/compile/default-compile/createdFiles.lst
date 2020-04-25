@@ -1,0 +1,5 @@
+com\tracker\server\entities\Region.class
+com\tracker\server\entities\Patient.class
+com\tracker\server\entities\Pandemic.class
+com\tracker\server\entities\Country.class
+com\tracker\server\entities\State.class
