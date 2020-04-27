@@ -1,0 +1,35 @@
+Categories
+			Category ID
+			Name
+			
+Items
+			Item ID
+			Item Name
+			Available Qty
+			Price
+			Category
+
+Customer
+			
+			Cust Id
+			Cust Name
+			DOB
+			Phone no
+			Addr
+			Email
+
+Order
+			
+			Order Id
+			Customer ID
+			Total Amount
+			
+Order Items
+			
+			OItem Id
+			Order Id
+			Item Id
+			Quantity
+			Order Date
+						
+
