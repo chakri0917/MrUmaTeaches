@@ -1,0 +1,26 @@
+Technology stack : 
+		spring boot:
+			1. Basic CRUD 																															|
+					1.1 JPA 																																|
+					1.2 Rest Service																												|
+					1.3 native SQL 																													|
+			2. Viewreolver 																															|						=====> Sprint 1
+					//2.1  React/ Angular --- it self is an app 														|
+					2.2  Jsp's / Thymeleaf 																									|
+					2.3  Jquery/ Ajax call 																									|
+			3. Microservices 
+					3.1  Introduce spring micro services 
+					
+			4. Spring Boot 
+					4.1 Spring security 
+					4.2 Transactional 
+					4.3 AOP
+					4.4 
+			//5. Spring Cloud 
+					5.1 Eureka 
+					5.2 Zuul 
+					5.3 Ribbon 
+			// 6. Lambda services using AWS 
+			 		6.1	 SNS
+			 		6.2	 SQS
+			 		6.3  Lambda 			

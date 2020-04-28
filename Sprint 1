@@ -1,0 +1,23 @@
+1.  Item creation 
+		Entity 
+		Dao 
+		DAO  Impl
+		Service 
+		Service Impl 
+		Controller 
+			@RestController 
+					postman 
+						CRUD 
+						get ---
+						Delete -- 
+						put --
+						POST  ---
+			@Controller 
+				ModelVI	
+
+2. UI 
+		
+		AJAX / JQUEY 
+3. Native SQL 
+
+		
