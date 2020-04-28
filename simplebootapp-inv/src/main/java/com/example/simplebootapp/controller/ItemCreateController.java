@@ -10,4 +10,10 @@ public class ItemCreateController {
 	public String itemCreate() {
 		return "Hello Item";
 	}
+	
+	
+	@RequestMapping("/newEndPoint")
+	public String itemCreateNew() {
+		return "Hello Item. This is new endpoint.";
+	}
 }
