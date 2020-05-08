@@ -1,0 +1,20 @@
+
+End Date
+
+Claims End Date
+			When a clinic is end dated, end date value should be cascaded to network clinics as well.
+
+Provider ENd Date
+		When a provider is enddated, corresponding end date value to should be cascaded to network provider and network clinic provder tables for all the provider with non praticipating networks 
+
+Directory Indicator flag:
+
+
+When provider details are upploaded using upload procedure:
+
+	If a Clininc provider is set to N, Insert a record in to UNb_CLINIC_PROV_DIR_REASON table With removal reason as "Provider's request - 3".
+
+	clinic  provider is ended, direcotry flag shoud be set to N.
+
+When Updated through Network Clinic Provider screen:
+Network is active and provider is ended, enter a reason to in UNb_CLINIC_PROV_DIR_REASON and cascade dir_IND flag.
